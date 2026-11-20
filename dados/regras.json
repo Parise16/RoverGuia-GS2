@@ -1,0 +1,47 @@
+[
+  {
+    "id": "regra_01",
+    "titulo": "Acessibilidade",
+    "texto": "Acessibilidade envolve usar espaços e serviços com segurança e autonomia, inclusive por pessoas com mobilidade reduzida.",
+    "fonte": "Lei Brasileira de Inclusão, Lei 13.146/2015, art. 3º, I",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm?lang=pt",
+    "consulta": "2026-11-16",
+    "natureza": "Paráfrase didática; não é transcrição literal."
+  },
+  {
+    "id": "regra_02",
+    "titulo": "Barreiras urbanísticas",
+    "texto": "Obstáculos nas vias e nos espaços públicos ou de uso coletivo são barreiras urbanísticas.",
+    "fonte": "Lei Brasileira de Inclusão, Lei 13.146/2015, art. 3º, IV, a",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm?lang=pt",
+    "consulta": "2026-11-16",
+    "natureza": "Paráfrase didática; não é transcrição literal."
+  },
+  {
+    "id": "regra_03",
+    "titulo": "Independência e participação",
+    "texto": "O direito à acessibilidade permite viver com independência e participar da sociedade.",
+    "fonte": "Lei Brasileira de Inclusão, Lei 13.146/2015, art. 53",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm?lang=pt",
+    "consulta": "2026-11-16",
+    "natureza": "Paráfrase didática; não é transcrição literal."
+  },
+  {
+    "id": "regra_04",
+    "titulo": "Desenho universal",
+    "texto": "Projetos de espaços e serviços de uso público ou coletivo devem seguir os princípios do desenho universal e as normas de acessibilidade.",
+    "fonte": "Lei Brasileira de Inclusão, Lei 13.146/2015, art. 55, caput",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm?lang=pt",
+    "consulta": "2026-11-16",
+    "natureza": "Paráfrase didática; não é transcrição literal."
+  },
+  {
+    "id": "regra_05",
+    "titulo": "Circulação durante obras",
+    "texto": "Durante e após obras em vias e espaços públicos, os responsáveis devem manter a circulação segura e a acessibilidade das pessoas.",
+    "fonte": "Lei Brasileira de Inclusão, Lei 13.146/2015, art. 59",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm?lang=pt",
+    "consulta": "2026-11-16",
+    "natureza": "Paráfrase didática; não é transcrição literal."
+  }
+]

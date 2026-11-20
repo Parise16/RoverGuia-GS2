@@ -1,0 +1,53 @@
+{
+  "nome": "Da minha casa até a praça",
+  "origem": "Casa",
+  "destino": "Praça",
+  "descricao": "O percurso começa ao lado do prédio, passa pelo jardim interno e pela portaria, segue pela calçada externa e termina na calçada arborizada junto à praça.",
+  "integrantes": [
+    {
+      "nome": "",
+      "rm": ""
+    }
+  ],
+  "pontos": [
+    {
+      "id": "ponto_01",
+      "nome": "Passagem ao lado do prédio",
+      "aliases": [
+        "saída de casa",
+        "passagem do prédio",
+        "saída do bloco"
+      ]
+    },
+    {
+      "id": "ponto_02",
+      "nome": "Caminho do jardim interno",
+      "aliases": [
+        "jardim interno", "caminho junto ao espelho d'água", "corredor mais amplo"
+      ]
+    },
+    {
+      "id": "ponto_03",
+      "nome": "Acesso interno à portaria",
+      "aliases": [
+        "rampa da portaria", "acesso interno", "rampas da portaria", "caminho para a saída"
+      ]
+    },
+    {
+      "id": "ponto_04",
+      "nome": "Calçada externa da portaria",
+      "aliases": [
+        "calçada da portaria", "saída da portaria", "calçada externa"
+      ]
+    },
+    {
+      "id": "ponto_05",
+      "nome": "Calçada arborizada junto à praça",
+      "aliases": [
+        "entrada da praça",
+        "acesso à praça", "calçada arborizada", "calçada da praça", "praça"
+      ]
+    }
+  ],
+  "observacao": "Ordem confirmada dos anexos originais: 1, 3, 2, 4, 5."
+}

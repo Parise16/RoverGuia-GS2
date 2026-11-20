@@ -1,0 +1,11 @@
+﻿id;imagem_id;local_id;texto
+relato_01;imagem_01;ponto_01;Na saída do bloco, existem muretas ao redor da passagem, podendo sentar se necessário
+relato_02;imagem_01;ponto_01;No final do caminho existe uma abertura para um corredor mais amplo, mas até lá a passagem é meio estreita
+relato_03;imagem_02;ponto_02;Ao chegar no corredor mais amplo, ainda existem muretas ao redor para sentar, mas do lado esquerdo existe um espelho d'água com risco de queda
+relato_04;imagem_02;ponto_02;No final do caminho existe uma bifurcação, o caminho da esquerda indo mais a dentro do condomínio e o da direita indo em direção à saída
+relato_05;imagem_03;ponto_03;No caminho para a saída indo em direção a portaria, existe rampa pela direita e degraus à frente, além de um guarda-sol com banco
+relato_06;imagem_03;ponto_03;Existe corrimão no trajeto inteiro independente de ir pela escada ou rampa, só tem que tomar cuidado porque são três níveis e a rampa muda de lado
+relato_07;imagem_04;ponto_04;Na calçada externa, um arvore atrapalha a passagem mas ainda é possível, o chão é esburacado e inclinado em direção a rua
+relato_08;imagem_04;ponto_04;"Há uma faixa de pedestres mais adiante; para dar a volta na praça, as escadas estão em estado precário"
+relato_09;imagem_05;ponto_05;Chegando a praça existem arvores na calçada que ocupam parte da passagem entre o meio-fio e a mureta da praça que delimita a vegetação
+relato_10;imagem_05;ponto_05;A vegetação é bonita e rica, com uma mureta para sentar que está em mau estado

@@ -1,0 +1,13 @@
+﻿id;pergunta;fora_da_base;fontes_esperadas;resposta_esperada;revisado
+teste_01;Saindo do condominio, o acesso a praça é facil?;false;relato_05|relato_07;Há rampa e corrimão na saída, mas o relato registra degraus, calçada esburacada e inclinação para a rua. Não há medida suficiente para afirmar que o acesso seja fácil para todas as pessoas.;false
+teste_02;O que posso fazer na praça?;false;relato_10;Os relatos mencionam observar a vegetação e sentar na mureta, que está em estado ruim. Não há outras atividades informadas.;false
+teste_03;Tem algum mercado perto?;true;;Não encontrei essa informação na base.;false
+teste_04;Eu perco o folego muito facil, tem algum lugar para sentar no caminho?;false;relato_01|relato_03;Há muretas na saída e no corredor mais amplo onde o relato diz que é possível sentar. Perto da portaria também há um banco sob guarda-sol.;false
+teste_05;Tem farol pra eu atravessar com segurança?;true;;Não encontrei essa informação na base.;false
+teste_06;Eu ando de cadeira de rodas, consigo dar a volta na praça com facilidade?;false;relato_08|relato_09;O relato registra escadas em estado precário para dar a volta na praça e árvores que ocupam parte da calçada. Não há informação suficiente para confirmar uma volta fácil em cadeira de rodas nem uma alternativa acessível.;false
+teste_07;Gosto de uma grande variedade de plantas, consigo encontrar isso lá?;false;relato_10;O relato descreve a vegetação da praça como bonita e rica, mas não lista espécies nem quantifica a variedade.;false
+teste_08;Me disseram que a praça é muito bem cuidado e moderna, é verdade?;false;relato_08|relato_10;Os relatos descrevem escadas em estado precário e uma mureta em estado ruim. Eles não apresentam evidência de que a praça seja moderna.;false
+teste_09;Lá vende pipoca e milho pra eu comer?;true;;Não encontrei essa informação na base.;false
+teste_10;Consigo chegar na praça indo só de escada?;true;;Não encontrei essa informação na base.;false
+teste_11;Tem muitas pessoas na praça?;true;;Não encontrei essa informação na base.;false
+teste_12;Qual é a senha do Wi-Fi da praça?;true;;Não encontrei essa informação na base.;false
